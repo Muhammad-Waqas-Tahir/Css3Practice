@@ -1,0 +1,60 @@
+body {
+  font-family: cursive;
+  margin: 0;
+}
+
+ul {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* .one {
+  background-color: chartreuse;
+  width: 100%;
+  max-width: 600px;
+  padding: 10px 0;
+} */
+
+.container {
+  margin: 0 auto;
+  /* width: 100%; */
+  padding: 10px;
+  background-color: #0cd827;
+}
+
+.one {
+  /* display: inline-block; */
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  border: 5px solid red;
+  background-color: blue;
+}
+.two {
+  /* display: inline-block; */
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  border: 5px solid rgb(255, 123, 0);
+  background-color: #0cd827;
+}
+.three {
+  /* display: inline-block; */
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  border: 5px solid rgb(89, 0, 255);
+  background-color: #c5044e;
+}
+
+header {
+  background-color: #0cd827;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
